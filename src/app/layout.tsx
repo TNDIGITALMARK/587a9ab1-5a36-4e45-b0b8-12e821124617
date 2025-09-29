@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "Cloud Nitters | Premium Cuddly Toy Animals",
+  description: "Discover the softest, safest, and most adorable toy animals perfect for children, collectors, and gift-giving. Cloud Nitters - where cuddly friends await!",
 };
 
 export default function RootLayout({

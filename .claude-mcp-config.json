@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "banana-nano": {
+      "command": "node",
+      "args": [
+        "/app/dist/mcp/servers/banana-nano-server.mjs"
+      ],
+      "env": {
+        "GEMINI_API_KEY": "AIzaSyDlpnMQc8PqVtwYqmovKetKnDyQshTOr7s",
+        "MCP_JOB_ID": "587a9ab1-5a36-4e45-b0b8-12e821124617",
+        "MCP_MODE": "claude-code"
+      }
+    }
+  }
+}
